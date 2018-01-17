@@ -1,7 +1,13 @@
 <template>
 	<div>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate eligendi vero minima quod, ea sequi explicabo cum laboriosam voluptate nemo, adipisci quis quidem ex, magni saepe qui provident. Perferendis, tempora.
-		</p>
+		<v-content>
+      <v-container fluid fill-height>
+        <v-layout justify-center>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste a dolorum alias nam facere. Temporibus perspiciatis accusamus quia molestiae perferendis cumque consequuntur, magnam, reiciendis, modi velit fugit nemo ea iusto.
+          </p>
+        </v-layout>
+      </v-container>
+    </v-content>
 	</div>
 </template>
